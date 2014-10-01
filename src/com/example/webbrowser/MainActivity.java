@@ -42,6 +42,8 @@ import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 import android.widget.Toast;
 
+
+//***********************Web Browser code implementation - tuf77221 ***********************
 public class MainActivity extends ActionBarActivity {
 
 	private Button goButton;
