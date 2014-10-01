@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebBrowser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="WelcomeText">Welcome to Android Web Browser</string>
+	<string name="ErrorMessage">Please enter a valid URL. Eg: www.xxxx.com</string>
+</resources>
